@@ -1,8 +1,8 @@
 {
     "about": "Sobre",
-    "appname": "Moodle Mobile {{version}}",
+    "appname": "CampusBR Mobile {{version}}",
     "cacheexpirationtime": "Tempo de expiração do cache (milisegundos)",
-    "credits": "Creditos",
+    "credits": "CampusBR 2016",
     "currentlanguage": "Idioma em uso",
     "deletesitefiles": "Tem certeza que deseja deletar os arquivos baixados a partir deste site?",
     "deletesitefilestitle": "Deletar os arquivos do site",
